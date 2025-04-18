@@ -10,6 +10,7 @@
 
 ## 🛠️ Technologies Used
 
+- Python (Numpy , Pandas, pyplot) for Data Cleaning & visualization
 - MySQL Workbench
 - SQL (Joins, Aggregations, Grouping)
 - CSV for data import
